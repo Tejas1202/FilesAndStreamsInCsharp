@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProcessor", "DataProcessor\DataProcessor.csproj", "{C9A75496-FE0F-41C5-BC95-EDE91EAE2608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessDataUsingFileSystemWatcher", "ProcessDataUsingFileSystemWatcher\ProcessDataUsingFileSystemWatcher.csproj", "{E86EFD9E-03C5-4B9F-A55F-70685EA119D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C9A75496-FE0F-41C5-BC95-EDE91EAE2608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9A75496-FE0F-41C5-BC95-EDE91EAE2608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9A75496-FE0F-41C5-BC95-EDE91EAE2608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86EFD9E-03C5-4B9F-A55F-70685EA119D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86EFD9E-03C5-4B9F-A55F-70685EA119D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86EFD9E-03C5-4B9F-A55F-70685EA119D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86EFD9E-03C5-4B9F-A55F-70685EA119D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
